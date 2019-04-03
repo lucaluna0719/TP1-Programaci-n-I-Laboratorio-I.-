@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554325774 source:c:\users\lucagameryt\desktop\tp1programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554320618 c:\users\lucagameryt\desktop\tp1programación\operaciones.h
+
+1554324993 source:c:\users\lucagameryt\desktop\tp1programación\operaciones.c
+	"operaciones.h"
+
